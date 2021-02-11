@@ -1,5 +1,0 @@
-*"* use this source file for your ABAP unit test classes
-
-
-* local test classes
-* something
