@@ -16,5 +16,7 @@ CLASS ZCL_ABAPGIT_TESTING_TEST IMPLEMENTATION.
 
 
   method FOOBAR.
+    " Some change
+    BREAK-POINT.
   endmethod.
 ENDCLASS.
