@@ -1,20 +1,20 @@
-class ZCL_ABAPGIT_TESTING_TEST definition
-  public
-  final
-  create public .
+CLASS zcl_abapgit_testing_test DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
-protected section.
-private section.
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
 
-  methods FOOBAR .
+    METHODS foobar .
 ENDCLASS.
 
 
 
-CLASS ZCL_ABAPGIT_TESTING_TEST IMPLEMENTATION.
+CLASS zcl_abapgit_testing_test IMPLEMENTATION.
 
 
-  method FOOBAR.
-  endmethod.
+  METHOD foobar.
+  ENDMETHOD.
 ENDCLASS.
